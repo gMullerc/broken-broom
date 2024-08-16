@@ -1,0 +1,20 @@
+Para o utilizar o git pela primeira vez, é preciso clonar o projeto.
+
+git clone https://github.com/gMullerc/broken-broom.git
+
+Em seguida, para não sobrescrever o que o outro está fazendo vamos separar em branches. Primeiro precisamos criar uma branch
+
+git checkout -b nome-da-branch
+
+Depois de entrar em uma branch, o desenvolvimento vai começar. E durante o desenvolvimento é bom sempre atualizar o código com o que tem na branch principal.
+
+git pull origin develop
+
+Após o término da atividade precisa subir o código no GitHub, use os seguintes comandos
+
+git add --all (Para adicionar todos os arquivos que voce alterou na fila de upload)
+git commit -m "aqui vai uma mensagem do que foi feito na atividade"
+git push origin nome-da-branch
+
+Lembrando, sempre é bom commitar o que foi feito, para evitar perdas
+

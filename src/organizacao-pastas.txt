@@ -1,0 +1,8 @@
+Começando pela raiz do projeto temos 
+BUILD -> Ficará localizado as versões executáveis do proje
+SRC -> 
+	CENAS-> Ficará as cenas dos projetos, fases e etc.
+	MENUS-> Ficará as partes de menus interativos do projeto.
+	RECURSOS-> Ficará as imagens, fontes e sons que serão utilizados para o desenvolvimento
+	SCRIPTS-> Ficará os scripts que controlam personagens, cenas e etc.
+	UI-> (NÃO DEFINIDO) Ficará a parte de controles de UI do projeto, como transições 
